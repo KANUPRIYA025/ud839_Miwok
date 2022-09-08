@@ -5,15 +5,6 @@ This app displays lists of vocabulary words for the user to learn the Miwok lang
 Used in a Udacity course in the Beginning Android Nanodegree.
 
 
-How to use this repository
---------------
-- Fork this repository to your Github account.
-- Open Android Studio 3.2.x+ in your local machine.
-- We recommend you to use the [Version Control System](https://developer.android.com/studio/intro#version_control_basics)(VCS) in your Android Studio 3.2.x+ IDE to clone the repository directly in your IDE.
-- You may have to use the File > Settings > Version Control (VCS) menu option to set up Git settings.
-- Refer to this [IntelliJ document](https://www.jetbrains.com/help/idea/version-control-integration.html) for details.
-- Working with VCS will make it easy for you to push your updates or switch between branches to your remote repository in Github.
-
 Prerequisites
 --------------
 
@@ -46,8 +37,6 @@ Troubleshoot
 ---------------
 - Gradle version and Android Gradle Plugin version should be compatible. See the table [here](https://developer.android.com/studio/releases/gradle-plugin#updating-gradle)
 - Sometimes, if you face unexpected behavior, go to File > Invalidate Caches/Restart. 
-- Android Studio - [How to Change Android SDK Path?](https://stackoverflow.com/questions/16581752/android-studio-how-to-change-android-sdk-path/18409923#18409923)  
-- In case you face some unexpected errors with the Emulator, it will be beneficial to wipe out the AVD data by going to Tools >> Device Manager >> Select Device >> Wipe out option.
 
 
 License
